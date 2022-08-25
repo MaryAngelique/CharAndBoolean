@@ -10,7 +10,8 @@ public class Main {
         char myUnicodeChar = 'D';
         System.out.println(myUnicodeChar);
 
-
+        char myCopyrightChar = 169;
+        System.out.println(myCopyrightChar);
 
     }
 }
