@@ -7,6 +7,9 @@ public class Main {
         char myChar = 'D';
         System.out.println(myChar);
 
+        char myUnicodeChar = 'D';
+        System.out.println(myUnicodeChar);
+
 
 
     }
