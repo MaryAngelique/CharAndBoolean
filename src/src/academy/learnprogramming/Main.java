@@ -16,6 +16,9 @@ public class Main {
         boolean myTrueBoolValue = true;
         boolean myFalseBoolValue = true;
 
+        boolean isCustomerOverTwentyOne = true;
+
+
 
     }
 }
