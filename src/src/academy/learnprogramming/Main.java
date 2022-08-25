@@ -13,5 +13,9 @@ public class Main {
         char myCopyrightChar = 169;
         System.out.println(myCopyrightChar);
 
+        boolean myTrueBoolValue = true;
+        boolean myFalseBoolValue = true;
+
+
     }
 }
