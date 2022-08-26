@@ -28,6 +28,10 @@ public class recap {
         myString = myString + "\u00A9 2022";
         System.out.println("myString is equal to " + myString);
 
+        String numberString =  "250.55";
+        numberString = numberString + "49.95";
+        System.out.println(numberString);
+
 
 
     }
