@@ -25,6 +25,10 @@ public class recap {
         myString = myString + ", and this is more.";
         System.out.println("myString is equal to " + myString);
 
+        myString = myString + "\u00A9 2022";
+        System.out.println("myString is equal to " + myString);
+
+
 
     }
 }
