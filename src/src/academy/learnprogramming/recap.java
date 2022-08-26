@@ -2,19 +2,29 @@ package src.academy.learnprogramming;
 
 public class recap {
 
-//    Byte
+    public static void main(String{} args) {
+        //    Byte
 
-//    Short
+        //    Short
 
-//    Int
+        //    Int
 
-//    Long
+        //    Long
 
-//    Float
+        //    Float
 
-//    Double
+        //    Double
 
-//    Char
+        //    Char
 
-//    Boolean
+        //    Boolean
+
+        String myString = "This is a string";
+        System.out.printIn("myString is equal to" + myString);
+
+        myString = myString + ", and this is more.";
+        System.out.println("myString is equal to " + myString);
+
+
+    }
 }
