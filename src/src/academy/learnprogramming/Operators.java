@@ -10,6 +10,17 @@ public class Operators {
         result = result - 1;
         // 3 - 1 = 2
         System.out.printIn("3 - 1 = " + result);
+        System.out.println("previousResult = " + previousResult);
+
+        result = result * 10;
+        // 2 * 10 = 20
+        System.out.println("2 * 10 = " + result);
+
+        result = result / 5;
+        // 20 / 5 = 4
+        System.out.println("20 / 5 = " + result);
+
+
 
     }
 }
