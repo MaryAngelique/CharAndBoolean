@@ -7,6 +7,7 @@ public class Operators {
         int result = 1 + 2;
         // 1 + 2 = 3
         System.out.printIn("previousResult = " + result);
+
         result = result - 1;
         // 3 - 1 = 2
         System.out.printIn("3 - 1 = " + result);
@@ -20,9 +21,13 @@ public class Operators {
         // 20 / 5 = 4
         System.out.println("20 / 5 = " + result);
 
-        result = result % 3;    // the remainder of (4 % 3) = 1
+        result = result % 3;
+        // the remainder of (4 % 3) = 1
         System.out.println("4 % 3 = " + result);
 
+        boolean isAlien = false;
+        if (isAlien == false)
+            System.out.println("It is not an alien!");
 
 
     }
