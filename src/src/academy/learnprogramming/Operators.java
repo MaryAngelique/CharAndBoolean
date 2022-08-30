@@ -49,7 +49,10 @@ public class Operators {
         int secondTopScore = 60;
         if (topScore > secondTopScore && topScore < 100) {
             System.out.println("Greater than second top score top score and less than 100");
+        }
 
+        if ((topScore > 90) || (topScore < 100)) {
+            System.out.println("Either or both of the conditions are true");
         }
     }
 }
