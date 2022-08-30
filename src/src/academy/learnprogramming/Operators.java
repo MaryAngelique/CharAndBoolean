@@ -6,11 +6,11 @@ public class Operators {
 
         int result = 1 + 2;
         // 1 + 2 = 3
-        System.out.printIn("previousResult = " + result);
+        System.out.println("previousResult = " + result);
 
         result = result - 1;
         // 3 - 1 = 2
-        System.out.printIn("3 - 1 = " + result);
+        System.out.println("3 - 1 = " + result);
         System.out.println("previousResult = " + result);
 
         result = result * 10;
@@ -41,5 +41,9 @@ public class Operators {
             System.out.println("And I am scared of alines");
         }
 
+        int topScore = 100;
+        if (topScore == 100) {
+            System.out.println("You got the high score!");
+        }
     }
 }
