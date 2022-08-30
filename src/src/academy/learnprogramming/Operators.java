@@ -25,6 +25,16 @@ public class Operators {
         // the remainder of (4 % 3) = 1
         System.out.println("4 % 3 = " + result);
 
+        // result = result / 3
+        result /= 3;
+        // 30 / 3 = 10
+        System.out.println("30 / 3 = " + result);
+
+        // result = result - 2
+        result -= 2;
+        // 10 - 2 = 8
+        System.out.println("10 - 2 = " + result);
+
         boolean isAlien = false;
         if (isAlien == false)
             System.out.println("It is not an alien!");
