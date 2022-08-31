@@ -60,5 +60,15 @@ public class Operators {
             System.out.println("This is an error");
         }
 
+        boolean isCar = false;
+        if (isCar) {
+            System.out.println("This is not supposed to happen");
+        }
+
+        boolean wasCar = isCar ? true : false;
+        if (wasCar) {
+            System.out.println("wasCar is true");
+        }
+
     }
 }

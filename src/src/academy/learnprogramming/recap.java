@@ -2,7 +2,7 @@ package src.academy.learnprogramming;
 
 public class recap {
 
-    public static void main(String{} args) {
+    public static void main(String() args) {
         //    Byte
 
         //    Short
