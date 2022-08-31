@@ -70,5 +70,10 @@ public class Operators {
             System.out.println("wasCar is true");
         }
 
+        // Challenge
+        double myFirstValue = 20.00d;
+        double mySecondValue = 80.00d;
+
+
     }
 }
