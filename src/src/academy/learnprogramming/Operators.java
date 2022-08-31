@@ -73,6 +73,7 @@ public class Operators {
         // Challenge
         double myFirstValue = 20.00d;
         double mySecondValue = 80.00d;
+        double myValuesTotal = myFirstValue + mySecondValue * 100.00d;
 
 
     }
