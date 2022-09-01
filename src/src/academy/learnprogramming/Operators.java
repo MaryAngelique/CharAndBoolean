@@ -82,5 +82,9 @@ public class Operators {
         boolean isNoRemainder = (theRemainder == 0) ? true : false;
         System.out.println("isNoRemainder = " + isNoRemainder);
 
+        if (!isNoRemainder) {
+            System.out.println("Got some remainder");
+        }
+
     }
 }
